@@ -1,4 +1,4 @@
-# e-vehicles-sale-by-2030
+# Electric Vehicles Sales Prediction in the World by 2030 Using Machine Learning Techniques
 ML project on predicting the sales estimation of ev by 2030
 
 Step 1: Upload the dataset
